@@ -586,7 +586,7 @@
         },
         "gap": {
           "50": {
-            "value": "50",
+            "value": "$spacing.1",
             "type": "spacing"
           },
           "100": {
