@@ -688,6 +688,10 @@
         "value": "12",
         "type": "spacing"
       }
+    },
+    "border-width": {
+      "value": "10",
+      "type": "borderWidth"
     }
   },
   "pdk": {
