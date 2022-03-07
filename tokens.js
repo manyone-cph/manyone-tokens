@@ -586,7 +586,7 @@
         },
         "gap": {
           "50": {
-            "value": "50",
+            "value": "$spacing.1",
             "type": "spacing"
           },
           "100": {
@@ -688,6 +688,10 @@
         "value": "12",
         "type": "spacing"
       }
+    },
+    "border-width": {
+      "value": "10",
+      "type": "borderWidth"
     }
   },
   "pdk": {
