@@ -1,6 +1,6 @@
 
 // Do not edit directly
-// Generated on Mon, 07 Mar 2022 10:42:22 GMT
+// Generated on Mon, 07 Mar 2022 11:55:26 GMT
 
 $color-base-black: #000000;
 $color-base-pink-100: #fee6ff;
@@ -199,22 +199,6 @@ $typography-desktop-h5-bold-text-decoration: none;
 $text-case-none: none;
 $text-decoration-none: none;
 $text-decoration-underline: underline;
-$desktop-button-x-padding: 20;
-$desktop-button-y-padding: 10;
-$desktop-row-y-padding: 12px * 2;
-$desktop-row-x-margin: 12px * 10;
-$desktop-row-columns-gap: 12px * 2;
-$desktop-section-y-padding: 12px * 2;
-$desktop-section-x-margin: 12px * 9;
-$desktop-section-x-margin-right: 12px * 10;
-$desktop-section-gap-50: 12px * 1;
-$desktop-section-gap-100: 100;
-$desktop-section-gap-horizontal: 12px * 2;
-$desktop-block-y-10: 10;
-$desktop-block-y-25: 25;
-$desktop-block-y-50: 50;
-$desktop-block-gap-10: 10;
-$desktop-block-gap-20: 20;
 $spacing-1: 12px * 1;
 $spacing-2: 12px * 2;
 $spacing-3: 12px * 3;
@@ -229,8 +213,20 @@ $spacing-11: 12px * 11;
 $spacing-12: 12px * 12;
 $spacing-13: 12px * 13;
 $spacing-14: 12px * 14;
+$spacing-button-desktop-x-padding: 12px * 2;
+$spacing-button-desktop-y-padding: 12px * 2;
+$spacing-row-desktop-y-padding: 12px * 2;
+$spacing-row-desktop-x-margin: 12px * 10;
+$spacing-row-columns-desktop-gap-x: 12px * 2;
 $spacing-game-changer-desktop-top: 12px * 14;
 $spacing-game-changer-desktop-bottom: 12px * 6;
 $spacing-game-changer-mobile-top: 12px * 5;
 $spacing-game-changer-mobile-bottom: 12px * 3;
+$spacing-block-desktop-y-padding: 12px * 2;
+$spacing-block-desktop-x-margin: 12px * 9;
+$spacing-block-desktop-x-margin-right: 12px * 10;
+$spacing-block-desktop-gap-12: 12px * 1;
 $spacing-base: 12px;
+$spacing-spacer-24: 12px * 2;
+$spacing-spacer-48: 12px * 4;
+$spacing-container-desktop-x: 12px * 10;
