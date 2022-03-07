@@ -146,7 +146,7 @@ module.exports = {
   platforms: {
     scss: {
       transformGroup: "scss",
-      transforms: ["attribute/cti", "name/cti/kebab", "color/hex", "size/px", "size/special", "size/rem", "size/shadow", "size/lh", "size/fontFamilies", "size/fontWeight"],
+      transforms: ["attribute/cti", "name/cti/kebab", "size/px", "size/special", "size/rem", "size/shadow", "size/lh", "size/fontFamilies", "size/fontWeight"],
       buildPath: './figma/',
       files: [{
         destination: "scss/_figma-variables.scss",
