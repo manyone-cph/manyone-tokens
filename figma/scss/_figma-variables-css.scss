@@ -1,38 +1,45 @@
 /**
  * Do not edit directly
- * Generated on Mon, 14 Mar 2022 14:28:19 GMT
+ * Generated on Fri, 18 Mar 2022 09:28:24 GMT
  */
 
 :root {
-  --color-base-black: #000000;
-  --color-base-pink-100: #fee6ff;
-  --color-base-pink-200: #ffbcf0;
-  --color-base-pink-300: #ed73cd;
-  --color-base-red-100: #ffdbd3;
-  --color-base-red-200: #f45348;
-  --color-base-yellow-100: #fff6c3;
-  --color-base-yellow-200: #fae35b;
-  --color-base-blue-100: #dbdbff;
-  --color-base-blue-200: #0e00aa33;
-  --color-base-blue-300: #a8acf9;
-  --color-base-blue-400: #6f70e9;
-  --color-base-blue-500: #0e00aa99;
-  --color-base-blue-600: #0e00aa;
+  --color-base-deep-blue: #130032;
+  --color-base-pink-100: #FEE6FF;
+  --color-base-pink-200: #FFCCF4;
+  --color-base-pink-300: #FF7FD9;
+  --color-base-red-100: #FFEAE5;
+  --color-base-red-200: #fcc9bd;
+  --color-base-red-300: #F5827A;
+  --color-base-yellow-100: #FFF8D2;
+  --color-base-yellow-200: #FFF4B4;
+  --color-base-yellow-300: #ffec7e;
+  --color-base-blue-100: #E5E5FF;
+  --color-base-blue-200: rgba(32,11,209,0.2);
+  --color-base-blue-300: #B4B5FF;
+  --color-base-blue-400: #6F70E9;
+  --color-base-blue-500: rgba(32,11,209,0.6);
+  --color-base-blue-600: #200BD1;
   --color-base-white-20: #ffffff33;
   --color-base-white-60: #ffffff99;
   --color-base-white-100: #ffffff;
-  --color-theme-light-bg-100: #dbdbff;
-  --color-theme-light-bg-200: #ffdbd3;
-  --color-theme-light-bg-300: #fff6c3;
-  --color-theme-light-bg-400: #fee6ff;
+  --color-base-brown-100: #e6e0e0;
+  --color-base-brown-200: #c0b0b1;
+  --color-base-brown-300: #806162;
+  --color-base-grey-100: #e6e0e0;
+  --color-base-grey-200: #aba5c0;
+  --color-theme-light-bg-100: #E5E5FF;
+  --color-theme-light-bg-200: #FFEAE5;
+  --color-theme-light-bg-300: #FFF8D2;
+  --color-theme-light-bg-400: #FEE6FF;
   --color-theme-light-bg-500: #ffffff;
-  --color-theme-light-fg-primary: #0e00aa;
-  --color-theme-light-fg-secondary: #0e00aa99;
-  --color-theme-light-fg-stroke: #0e00aa33;
-  --color-theme-dark-bg-100: #6f70e9;
-  --color-theme-dark-bg-200: #f45348;
-  --color-theme-dark-bg-300: #ed73cd;
-  --color-theme-dark-bg-400: #0e00aa;
+  --color-theme-light-fg-primary: #200BD1;
+  --color-theme-light-fg-secondary: rgba(32,11,209,0.6);
+  --color-theme-light-fg-stroke: rgba(32,11,209,0.2);
+  --color-theme-dark-bg-100: #6F70E9;
+  --color-theme-dark-bg-200: #F5827A;
+  --color-theme-dark-bg-300: #FF7FD9;
+  --color-theme-dark-bg-400: #200BD1;
   --color-theme-dark-fg-primary: #ffffff;
   --color-theme-dark-fg-secondary: #ffffff99;
   --color-theme-dark-fg-stroke: #ffffff33;
@@ -193,12 +200,20 @@
   --typography-desktop-h5-regular-text-decoration: none;
   --typography-desktop-h5-bold-font-family: Akkurat Pro;
   --typography-desktop-h5-bold-font-weight: Bold;
-  --typography-desktop-h5-bold-line-height: 145%;
+  --typography-desktop-h5-bold-line-height: 122%;
   --typography-desktop-h5-bold-font-size: 19px;
   --typography-desktop-h5-bold-letter-spacing: 0;
   --typography-desktop-h5-bold-paragraph-spacing: 10;
   --typography-desktop-h5-bold-text-case: none;
   --typography-desktop-h5-bold-text-decoration: none;
+  --typography-desktop-link-font-family: Akkurat Pro;
+  --typography-desktop-link-font-weight: Regular;
+  --typography-desktop-link-line-height: 150%;
+  --typography-desktop-link-font-size: 16px;
+  --typography-desktop-link-letter-spacing: 0;
+  --typography-desktop-link-paragraph-spacing: 15;
+  --typography-desktop-link-text-case: none;
+  --typography-desktop-link-text-decoration: underline;
   --text-case-none: none;
   --text-decoration-none: none;
   --text-decoration-underline: underline;
@@ -246,6 +261,8 @@
   --spacing-card-header-mobile-bottom: 12px * 1;
   --spacing-text-desktop-y-gap: 12px * 2;
   --spacing-text-mobile-y-gap: 12px * 1;
+  --spacing-hero-text-desktop-y: 12px * 8;
+  --spacing-hero-text-mobile-y: 12px * 8;
   --sizing-air-space-desktop-sm: 12px * 2;
   --sizing-air-space-desktop-md: 12px * 4;
   --sizing-air-space-desktop-lg: 12px * 6;
