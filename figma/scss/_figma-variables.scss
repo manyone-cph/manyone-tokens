@@ -1,6 +1,6 @@
 
 // Do not edit directly
-// Generated on Thu, 05 May 2022 08:40:02 GMT
+// Generated on Thu, 05 May 2022 10:38:03 GMT
 
 $color-base-deep-blue: #130032;
 $color-base-pink-100: #FEE6FF;
@@ -9,6 +9,8 @@ $color-base-pink-300: #FF7FD9;
 $color-base-red-100: #FFEAE5;
 $color-base-red-200: #fcc9bd;
 $color-base-red-300: #F5827A;
+$color-base-yellow-20: rgba(255,248,209,0.2);
+$color-base-yellow-60: rgba(255,248,209,0.6);
 $color-base-yellow-100: #FFF8D2;
 $color-base-yellow-200: #FFF4B4;
 $color-base-yellow-300: #ffec7e;
@@ -38,9 +40,9 @@ $color-theme-dark-bg-100: #6F70E9;
 $color-theme-dark-bg-200: #F5827A;
 $color-theme-dark-bg-300: #FF7FD9;
 $color-theme-dark-bg-400: #200BD1;
-$color-theme-dark-fg-primary: #ffffff;
-$color-theme-dark-fg-secondary: #ffffff99;
-$color-theme-dark-fg-stroke: #ffffff33;
+$color-theme-dark-fg-primary: #FFF8D2;
+$color-theme-dark-fg-secondary: rgba(255,248,209,0.6);
+$color-theme-dark-fg-stroke: rgba(255,248,209,0.2);
 $font-families-linguistics-pro: Linguistics Pro;
 $font-families-akkurat-pro: Akkurat Pro;
 $line-heights-sm: 122%;
